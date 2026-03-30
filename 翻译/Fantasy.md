@@ -1,6 +1,6 @@
 # Fantasy
 
-<img src="../assets/Fantasy/GwendolynBennett_bioimage.png" alt="Gwendolyn Bennett" width="30%"/>
+<img src="./assets/GwendolynBennett_bioimage.png" alt="Gwendolyn Bennett" width="30%"/>
 
 ## 原文
 

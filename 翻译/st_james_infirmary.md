@@ -1,10 +1,10 @@
 # St. James Infirmary
 
-<img src="../assets/st_james_infirmary/st_james_infirmary.jpeg" alt="st_james_infirmary" width="30%" />
+<img src="./assets/st_james_infirmary.jpeg" alt="st_james_infirmary" width="30%" />
 
 Alexandria Leon
 
-<img src="../assets/st_james_infirmary/AlexandriaLeon.jpg" alt="Alexandria Leon" width="50%" />
+<img src="./assets/AlexandriaLeon.jpg" alt="Alexandria Leon" width="50%" />
 
 ## St. James Infirmary
 

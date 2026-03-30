@@ -1,5 +1,7 @@
 # Second Adolescence
 
+The Songery 的第一张专辑，发行于2016年。
+
 ## Two Shoes' Tissues
 
 Two-shoes' tissues litter the floor

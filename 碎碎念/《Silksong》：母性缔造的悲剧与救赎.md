@@ -18,9 +18,9 @@
 
 回想大黄蜂脱离囚笼，以及与蕾丝初见的场景。
 
-![image-20250913110548532](../assets/%E3%80%8ASilksong%E3%80%8B%EF%BC%9A%E6%AF%8D%E6%80%A7%E7%BC%94%E9%80%A0%E7%9A%84%E6%82%B2%E5%89%A7%E4%B8%8E%E6%95%91%E8%B5%8E/image-20250913110548532.png)
+![image-20250913110548532](./assets/image-20250913110548532.png)
 
-<img src="../assets/%E3%80%8ASilksong%E3%80%8B%EF%BC%9A%E6%AF%8D%E6%80%A7%E7%BC%94%E9%80%A0%E7%9A%84%E6%82%B2%E5%89%A7%E4%B8%8E%E6%95%91%E8%B5%8E/image-20250913110813549.png" alt="image-20250913110813549" style="zoom:67%;" />
+<img src="./assets/image-20250913110813549.png" alt="image-20250913110813549" style="zoom:67%;" />
 
 也许，就是她操纵光蝶，打碎囚笼的封印将大黄蜂放出。
 
@@ -50,27 +50,27 @@
 
 生母赫拉，在成为守梦人而沉睡前叮嘱年幼的大黄蜂，不必听从他人的期望，
 
-<img src="../assets/%E3%80%8ASilksong%E3%80%8B%EF%BC%9A%E6%AF%8D%E6%80%A7%E7%BC%94%E9%80%A0%E7%9A%84%E6%82%B2%E5%89%A7%E4%B8%8E%E6%95%91%E8%B5%8E/Hollow%20Knight%20Silksong%20-%202%2731.700%27%27.jpg" alt="Hollow Knight Silksong - 2'31.700''" style="zoom: 50%;" />
+<img src="./assets/Hollow%20Knight%20Silksong%20-%202%2731.700%27%27.jpg" alt="Hollow Knight Silksong - 2'31.700''" style="zoom: 50%;" />
 
 养母及恩师蜂后维帕斯告诫大黄蜂，必须持续磨练自己的技艺。
 
-<img src="../assets/%E3%80%8ASilksong%E3%80%8B%EF%BC%9A%E6%AF%8D%E6%80%A7%E7%BC%94%E9%80%A0%E7%9A%84%E6%82%B2%E5%89%A7%E4%B8%8E%E6%95%91%E8%B5%8E/Hollow%20Knight%20Silksong%20-%203%2716.700%27%27.jpg" alt="Hollow Knight Silksong - 3'16.700''" style="zoom:50%;" />
+<img src="./assets/Hollow%20Knight%20Silksong%20-%203%2716.700%27%27.jpg" alt="Hollow Knight Silksong - 3'16.700''" style="zoom:50%;" />
 
 在白夫人面前，她真正明白了自己的使命。
 
-<img src="../assets/%E3%80%8ASilksong%E3%80%8B%EF%BC%9A%E6%AF%8D%E6%80%A7%E7%BC%94%E9%80%A0%E7%9A%84%E6%82%B2%E5%89%A7%E4%B8%8E%E6%95%91%E8%B5%8E/Hollow%20Knight%20Silksong%20-%205%2711.715%27%27.jpg" alt="Hollow Knight Silksong - 5'11.715''" style="zoom:50%;" />
+<img src="./assets/Hollow%20Knight%20Silksong%20-%205%2711.715%27%27.jpg" alt="Hollow Knight Silksong - 5'11.715''" style="zoom:50%;" />
 
 在拿到永恒之花后，大黄蜂借助永恒之花的力量潜入深渊底层的虚空之海(Void Ocean)，直面已被虚空侵蚀的蕾丝。在击败失心蕾丝(Lost Lace)之后，蕾丝身上的虚空褪去，逐渐显露真容。但仅凭大黄蜂一己之力是无法离开深渊的，苍白之母为了拯救蕾丝，便将仅存的力量赋予大黄蜂，让大黄蜂带着蕾丝逃出深渊。这也意味着苍白之母将真正被虚空湮灭。
 
-<img src="../assets/%E3%80%8ASilksong%E3%80%8B%EF%BC%9A%E6%AF%8D%E6%80%A7%E7%BC%94%E9%80%A0%E7%9A%84%E6%82%B2%E5%89%A7%E4%B8%8E%E6%95%91%E8%B5%8E/image-20250913153202699.png" alt="image-20250913153202699" style="zoom:67%;" />
+<img src="./assets/image-20250913153202699.png" alt="image-20250913153202699" style="zoom:67%;" />
 
 理论上蕾丝还有个名叫幽影(Phantom)姐姐。
 
-<img src="../assets/%E3%80%8ASilksong%E3%80%8B%EF%BC%9A%E6%AF%8D%E6%80%A7%E7%BC%94%E9%80%A0%E7%9A%84%E6%82%B2%E5%89%A7%E4%B8%8E%E6%95%91%E8%B5%8E/image-20250914115931107.png" alt="image-20250914115931107" style="zoom: 50%;" />
+<img src="./assets/image-20250914115931107.png" alt="image-20250914115931107" style="zoom: 50%;" />
 
 对于幽影的描述是这样的：
 
-![image-20250914120112132](../assets/%E3%80%8ASilksong%E3%80%8B%EF%BC%9A%E6%AF%8D%E6%80%A7%E7%BC%94%E9%80%A0%E7%9A%84%E6%82%B2%E5%89%A7%E4%B8%8E%E6%95%91%E8%B5%8E/image-20250914120112132.png)
+![image-20250914120112132](./assets/image-20250914120112132.png)
 
 幽影同样是由灵丝创造的生命，最终却沦落为圣堡的废物处理工，在漫长的岁月中等待他人来终结她的缓慢消亡。
 
