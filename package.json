@@ -1,0 +1,31 @@
+{
+  "name": "focus_on_life",
+  "version": "1.0.0",
+  "description": "残笔行追冷月风，字间偶生泠然泪。时有无谓诗，偶有碎碎念。",
+  "main": "index.js",
+  "scripts": {
+    "lint:md": "markdownlint-cli2 && textlint \"**/*.md\"",
+    "lint:md:fix": "markdownlint-cli2 --fix && textlint --fix \"**/*.md\"",
+    "format:md": "markdownlint-cli2 --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gwyntoria/focus_on_life.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gwyntoria/focus_on_life/issues"
+  },
+  "homepage": "https://github.com/Gwyntoria/focus_on_life#readme",
+  "devDependencies": {
+    "markdownlint-cli2": "^0.22.0",
+    "textlint": "^15.5.4",
+    "textlint-rule-ja-space-between-half-and-full-width": "^2.4.2",
+    "textlint-rule-no-todo": "^2.0.1",
+    "textlint-rule-prh": "^6.1.0",
+    "textlint-rule-zh-half-and-full-width-bracket": "^1.1.0"
+  }
+}
