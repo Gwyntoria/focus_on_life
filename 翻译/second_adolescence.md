@@ -1,6 +1,6 @@
 # Second Adolescence
 
-The Songery 的第一张专辑，发行于2016年。
+The Songery 的第一张专辑，发行于 2016 年。
 
 ## Two Shoes' Tissues
 
@@ -46,7 +46,7 @@ She'll bend your rules then show you what she's living for
 
 Writer(s): The Songery
 
-[https://www.musixmatch.com/lyrics/The-Songery/Two-Shoes-Tissues]
+[HTTPS://www.musixmatch.com/lyrics/The-Songery/Two-Shoes-Tissues]
 
 ## Cool
 
@@ -101,7 +101,7 @@ I'm gonna be cooler than you
 
 Writer(s): Kevin Chinn, Darien Fields
 
-[https://www.musixmatch.com/lyrics/The-Songery/Cool]
+[HTTPS://www.musixmatch.com/lyrics/The-Songery/Cool]
 
 ## Popular Girls
 
@@ -152,7 +152,7 @@ Popular Popular Popular Popular
 
 Writer(s): The Songery
 
-[https://www.musixmatch.com/lyrics/The-Songery/Popular-Girls]
+[HTTPS://www.musixmatch.com/lyrics/The-Songery/Popular-Girls]
 
 ## Hot 4 Teacher
 
@@ -196,7 +196,7 @@ Teach me teacher preacher teach me why I'm hot for teacher
 
 Writer(s): The Songery
 
-[https://www.musixmatch.com/lyrics/The-Songery/Hot-4-Teacher]
+[HTTPS://www.musixmatch.com/lyrics/The-Songery/Hot-4-Teacher]
 
 ## Boys "R" Us
 
@@ -252,7 +252,7 @@ Show me what you're packin' (Boys R Us)
 
 Writer(s): The Songery
 
-[https://www.musixmatch.com/lyrics/The-Songery/Boys-R-Us]
+[HTTPS://www.musixmatch.com/lyrics/The-Songery/Boys-R-Us]
 
 ## Gamer Boy
 
@@ -308,7 +308,7 @@ Yeah, I'm a real priority- a Gamer Boy indeed
 
 Writer(s): The Songery
 
-[https://www.musixmatch.com/lyrics/The-Songery/Gamer-Boy]
+[HTTPS://www.musixmatch.com/lyrics/The-Songery/Gamer-Boy]
 
 ## Prom Queen
 
@@ -357,4 +357,4 @@ Make these dresses nice and frilly
 
 Writer(s): Alexandria Ellys Amanda Mcmahon
 
-[https://www.musixmatch.com/lyrics/The-Songery/Prom-Queen]
+[HTTPS://www.musixmatch.com/lyrics/The-Songery/Prom-Queen]
