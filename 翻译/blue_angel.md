@@ -1142,89 +1142,110 @@ In your smile 지난 일이야
 작곡: 방시혁
 작사: 김종숙
 
-긴 어둠 속에서 빛으로 나와 제일 처음 만난 너
-보랏빛 흰 새벽 하늘에 넌 눈물지으며 앉아 있었지
+긴 어둠 속에서
+빛으로 나와
+제일 처음 만난 너
+보랏빛 흰 새벽 하늘에
+넌 눈물지으며 앉아 있었지
 
-네 큰 두 눈에서 깊은 바램이 두 볼을 타고 흐르면
-새하얀 내 날개를 펴고 널 그녀에게로 그녀의 꿈으로
+네 큰 두 눈에서
+깊은 바램이
+두 볼을 타고 흐르면
+새하얀 내 날개를 펴고
+널 그녀에게로
+그녀의 꿈으로
 
-네 사랑 말하고 아름다운 사랑 말하고 비록 꿈이라 해도 그녈 안아줘요
-영원히 너를 영원히 너만을 사랑하게
+네 사랑 말하고
+아름다운 사랑 말하고
+비록 꿈이라 해도
+그녈 안아줘요
+영원히 너를
+영원히 너만을 사랑하게
 
-네 큰 두 눈에서 깊은 바램이 두 볼을 타고 흐르면
-새하얀 내 날개를 펴고 널 그녀에게로 그녀의 꿈으로
+네 큰 두 눈에서
+깊은 바램이
+두 볼을 타고 흐르면
+새하얀 내 날개를 펴고
+널 그녀에게로
+그녀의 꿈으로
 
-네 사랑 말하고 아름다운 사랑 말하고 비록 꿈이라 해도 그녈 안아줘요
-영원히 너를 영원히 너만을 사랑하게
+네 사랑 말하고
+아름다운 사랑 말하고
+비록 꿈이라 해도
+그녈 안아줘요
+영원히 너를
+영원히 너만을 사랑하게
 
-나 부러워져요 그녀가 나 부러워져요
-사랑스런 네가 사랑하는 그녀 너를 위해 그녈 보내줄게
+나 부러워져요
+그녀가 나 부러워져요
+사랑스런 네가 사랑하는 그녀
+너를 위해 그녈 보내줄게
 
-네 사랑 말하고 아름다운 사랑 말하고 비록 꿈이라 해도 그녈 안아줘요
-영원히 너를 영원히 너만을 사랑하게
+네 사랑 말하고
+아름다운 사랑 말하고
+비록 꿈이라 해도
+그녈 안아줘요
+영원히 너를
+영원히 너만을 사랑하게
 
 ### 天使
 
 从漫长黑暗中
-走向光明以后
-我最先遇见的你
-在紫白色的凌晨天空里
-含着泪坐在那里
+走向光的时候
+我最先遇见了你
+紫白色的清晨天幕下
+你含着泪坐在那里
 
-如果从你那双大大的眼睛里
-深深的期盼顺着双颊流下
+当你的眼里
+深深的心愿
+沿着双颊流下
 我会展开雪白的翅膀
 把你送向她
-送向她的梦里
+送进她的梦里
 
-说出你的爱
-说出美丽的爱
-即使那只是一场梦
-也请抱住她
+说出你的爱吧
+说出那美丽的爱吧
+即使只是一场梦
+也请拥抱她
 让她永远爱你
 永远只爱你
 
-如果从你那双大大的眼睛里
-深深的期盼顺着双颊流下
+当你的眼里
+深深的心愿
+沿着双颊流下
 我会展开雪白的翅膀
 把你送向她
-送向她的梦里
+送进她的梦里
 
-说出你的爱
-说出美丽的爱
-即使那只是一场梦
-也请抱住她
+说出你的爱吧
+说出那美丽的爱吧
+即使只是一场梦
+也请拥抱她
 让她永远爱你
 永远只爱你
 
-我开始羡慕
 我开始羡慕她
-那个被可爱的你所爱的她
-为了你
-我会把她送走
+真的羡慕她
+她被这样可爱的你爱着
+我会把她送去你身旁
 
-说出你的爱
-说出美丽的爱
-即使那只是一场梦
-也请抱住她
+说出你的爱吧
+说出那美丽的爱吧
+即使只是一场梦
+也请拥抱她
 让她永远爱你
 永远只爱你
 
 ## 参考链接
 
-- Bugs《Blue Angel》专辑曲目页：<https://music.bugs.co.kr/album/3977>
-- Maniadb《Blue Angel》专辑页：<https://www.maniadb.com/album/121345?o=l&s=1>
+- Genie《Blue Angel》专辑页：<https://www.genie.co.kr/detail/albumInfo?axnm=15036102>
 - Genie《내눈에 슬픈 비》：<https://www.genie.co.kr/detail/songInfo?xgnm=16268688>
-- Bugs《내눈에 슬픈 비》：<https://music.bugs.co.kr/track/80839?wl_ref=list_tr_08>
-- Bugs《내 남자》：<https://music.bugs.co.kr/track/3837>
+- Genie《내 남자》：<https://www.genie.co.kr/detail/songInfo?xgnm=16268689>
 - Genie《Steal Away (주인공)》：<https://www.genie.co.kr/detail/songInfo?xgnm=16268690>
-- Bugs《Steal Away (주인공)》：<https://music.bugs.co.kr/track/91229>
+- Genie《Last Night》：<https://www.genie.co.kr/detail/songInfo?xgnm=16268691>
 - Genie《널 보내고》：<https://www.genie.co.kr/detail/songInfo?xgnm=16268692>
-- Bugs《널 보내고》：<https://music.bugs.co.kr/track/80843?wl_ref=list_tr_08>
-- MusicBrainz《Blue Angel》发行页：<https://musicbrainz.org/release/9b18aaad-93f2-41d6-983b-b9be0a754ae2>
-- Bugs《Last Night》：<https://music.bugs.co.kr/track/80842?wl_ref=list_tr_08_ab>
-- Bugs《소중한 사랑》：<https://music.bugs.co.kr/track/91230>
-- Bugs《너도 나처럼》：<https://music.bugs.co.kr/track/3845?wl_ref=list_tr_08_ab>
+- Genie《소중한 사랑》：<https://www.genie.co.kr/detail/songInfo?xgnm=16268693>
+- Genie《너도 나처럼》：<https://www.genie.co.kr/detail/songInfo?xgnm=16268694>
 - Genie《위험한 사랑 (Dangerous Love)》：<https://www.genie.co.kr/detail/songInfo?xgnm=16268695>
-- Bugs《별거아냐》：<https://music.bugs.co.kr/track/80846>
-- Bugs《천사》：<https://music.bugs.co.kr/track/80847?wl_ref=list_tr_08>
+- Genie《별거 아냐》：<https://www.genie.co.kr/detail/songInfo?xgnm=16268696>
+- Genie《천사》：<https://www.genie.co.kr/detail/songInfo?xgnm=16268697>
