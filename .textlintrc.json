@@ -10,9 +10,7 @@
     },
     "no-todo": true,
     "prh": {
-      "rulePaths": [
-        "./tech-terms.yml"
-      ],
+      "rulePaths": ["./tech-terms.yml"],
       "checkHeader": true,
       "checkParagraph": true,
       "checkBlockQuote": true,
