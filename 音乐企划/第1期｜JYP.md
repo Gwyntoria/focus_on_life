@@ -1,6 +1,6 @@
 # 第 1 期｜JYP
 
-![JYP](./assets/JYP-meme.png)
+![JYP](./assets/第1期｜JYP/JYP-meme.png)
 
 这是我现在常用的表情包，JYP 式咆哮。抓狂时用它，激动时也用它。
 
