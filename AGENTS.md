@@ -1,20 +1,24 @@
 # Repository Guidelines
 
-## Project Structure & Module Organization
+## Image File Path
 
-This repository is a Markdown archive for the *Focus on Life* writing project. Root files hold project metadata and lint configuration: `README.md`, `package.json`, `.markdownlint-cli2.jsonc`, `.textlintrc.json`, and `tech-terms.yml`. Main content is grouped by topic directories, such as `年度书单/`, `无谓诗/`, `飞鸟来信/`, `碎碎念/`, `翻译/`, `音乐企划/`, `闻言录/`, and `历史笔记/`. Keep images and media in the nearest relevant `assets/` folder, for example `碎碎念/assets/` or `年度书单/assets/`.
+Save note images under `./assets/<filename>/<image-name>.png`, where `<filename>` matches the owning Markdown filename without its `.md` extension. Reference the image from the note with a relative Markdown path.
 
-## Build, Test, and Development Commands
+## References and Footnotes
 
-There is no application build step. Use these commands from the repository root:
+For Markdown notes with external references:
 
-- `npx markdownlint-cli2 --fix --no-globs path/to/file.md"`: check Markdown structure and formatting.
-- `npx textlint --fix path/to/file.md"`: check prose rules, terminology, spacing, and `TODO` markers.
+- Cite sources in the body with numeric footnote markers, for example `[^1]`. Assign numbers by first appearance and reuse the same number for repeated citations of the same source.
+- Add a `## References` section at the end of the note. List references in numeric order as an ordered list, using the form `1. [^1]: Author, [Title](URL), year.`, with a short description when useful.
+- Do not use named footnote markers such as `[^active-object]`.
 
-`package.json` currently defines no npm scripts, so call the tools with `npx` unless scripts are added later.
+## Markdown File Format
 
-## Writing Style & Naming Conventions
+After finishing edits to a Markdown file, format only the files that was changed with `markdownlint-cli2`, then run `textlint` to apply typography fixes and terminology replacements.
 
-Use Markdown for all prose. Prefer concise headings, stable Chinese punctuation, and a blank line around headings, lists, block quotes, and images. Markdown unordered lists should use `-`. Emphasis and strong emphasis should use asterisks. Avoid duplicate sibling headings. Preserve meaningful Chinese filenames for essays; use descriptive image names when adding new assets.
+```bash
+npx markdownlint-cli2 --fix --no-globs path/to/file.md
+npx textlint --fix path/to/file.md
+```
 
-For mixed Chinese and Latin text, keep a space between half-width and full-width characters where the linter expects it, for example `AI 时代` rather than `AI时代`.
+Avoid running broad auto-fix commands unless the task is specifically to clean up formatting across the repository.
